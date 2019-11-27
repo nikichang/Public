@@ -1,4 +1,9 @@
 body{
     line-height: normal;
-    font-size: 32px;
+}
+.badge{
+    font-size: 14px;
+    color: #fff;
+    padding: 2px 6px;
+    background: #ff3a00;
 }
